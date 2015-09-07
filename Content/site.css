@@ -4,3 +4,21 @@
   font-size: 4em
 
 }
+.menu
+{
+   font-family: Segoe UI,sans-serif;
+   font-size: 2em;
+}
+div.jumbotron > button
+{
+  margin:auto 0px;
+  background-color: #0066FF;
+  color:white;
+}
+
+section
+{
+  width:80%;
+  margin-left: auto;
+  margin-top: 5%;
+}
